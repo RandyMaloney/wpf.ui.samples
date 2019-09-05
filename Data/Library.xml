@@ -1,0 +1,118 @@
+<Library xmlns="">
+    <Movies>
+        <Movie id="com.plexapp.agents.imdb://tt1323594?lang=en" collection="Despicable Me" title="Despicable Me" duration="95" released="2010" size="15.62" classification="gb-U">
+            <Genres>
+                <Genre type="Animation" />
+                <Genre type="Adventure" />
+                <Genre type="Commedy" />
+            </Genres>
+            <Cast>
+                <Actor name="Steve Carell" />
+                <Actor name="Russell Brand" />
+                <Actor name="Jason Segel" />
+            </Cast>
+            <Production>
+              <Studio name="Universal Pictures" />
+              <Studio name="Illumation Entertainment" />
+            </Production>
+            <Reviews>
+              <Rating name="IMDB" score="7.6" />
+              <Rating name="Metascore" score="95" />
+              <Rating name="Rotten Tomatoes" score="7" />
+            </Reviews>
+            <Collections>
+              <Collection name="Despicable Me" />
+            </Collections>
+        </Movie>
+        <Movie id="com.plexapp.agents.imdb://tt1690953?lang=en" collection="Despicable Me" title="Despicable Me 2" duration="98" released="2013" size="4.28" classification="gb-U">
+            <Genres>
+                <Genre type="Animation" />
+                <Genre type="Adventure" />
+                <Genre type="Commedy" />
+            </Genres>
+            <Cast>
+                <Actor name="Steve Carell" />
+                <Actor name="Kristen Wiig" />
+                <Actor name="Benjamin Bratt" />
+            </Cast>
+            <Production>
+              <Studio name="Universal Pictures" />
+              <Studio name="Illumation Entertainment" />
+            </Production>
+            <Reviews>
+              <Rating name="IMDB" score="7.6" />
+              <Rating name="Metascore" score="95" />
+              <Rating name="Rotten Tomatoes" score="7" />
+            </Reviews>
+            <Collections>
+              <Collection name="Despicable Me" />
+            </Collections>
+        </Movie>
+        <Movie id="com.plexapp.agents.imdb://tt1690953?lang=en" collection="Despicable Me" title="Despicable Me 3" duration="98" released="2017" size="4.28 GB" classification="gb-U">
+            <Genres>
+                <Genre type="Animation" />
+                <Genre type="Adventure" />
+                <Genre type="Commedy" />
+            </Genres>
+            <Cast>
+                <Actor name="Steve Carell" />
+                <Actor name="Kristen Wiig" />
+                <Actor name="Trey " />
+            </Cast>
+            <Production>
+              <Studio name="Universal Pictures" />
+              <Studio name="Illumation Entertainment" />
+            </Production>
+            <Reviews>
+              <Rating name="IMDB" score="7.6" />
+              <Rating name="Metascore" score="95" />
+              <Rating name="Rotten Tomatoes" score="7" />
+            </Reviews>
+            <Collections>
+              <Collection name="Despicable Me" />
+            </Collections>
+        </Movie>
+        <Movie id="com.plexapp.agents.imdb://tt0268380?lang=en" collection="Ice Age" title="Ice Age" duration="81" released="2002" size="4.28 GB" classification="U">
+            <Genres>
+                <Genre type="Animation" />
+                <Genre type="Adventure" />
+                <Genre type="Commedy" />
+            </Genres>
+            <Cast>
+                <Actor name="Denis Leary" />
+                <Actor name="John Leguizamo" />
+                <Actor name="Ray Romano" />
+            </Cast>
+            <Production>
+              <Studio name="Twentieth Century Fox" />
+              <Studio name="Blue SKy" />
+            </Production>
+            <Reviews>
+              <Rating name="IMDB" score="7.6" />
+              <Rating name="Metascore" score="95" />
+              <Rating name="Rotten Tomatoes" score="7" />
+            </Reviews>
+        </Movie>
+        <Movie id="com.plexapp.agents.imdb://tt0438097?lang=en" collection="Ice Age" title="Ice Age: The Meltdown" duration="91" released="2006" size="4.28 GB" classification="U">
+            <Genres>
+                <Genre type="Animation" />
+                <Genre type="Adventure" />
+                <Genre type="Commedy" />
+            </Genres>
+            <Cast>
+                <Actor name="Denis Leary" />
+                <Actor name="John Leguizamo" />
+                <Actor name="Ray Romano" />
+            </Cast>
+            <Production>
+              <Studio name="Twentieth Century Fox" />
+              <Studio name="Illumation Entertainment" />
+            </Production>
+            <Reviews>
+              <Rating name="IMDB" score="7.6" />
+              <Rating name="Metascore" score="95" />
+              <Rating name="Rotten Tomatoes" score="7" />
+            </Reviews>
+        </Movie>
+    </Movies>
+</Library>
